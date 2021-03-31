@@ -17,6 +17,7 @@ A **Robotic And Engineering automation Student**  from Panyapiwat Institute of M
 - 💼 I’m pursuing a Bachelor's degree in Robotic And Engineering.
 - :bulb: I'm currently studying Python with a big interest in Machine Learning and ROS. 
 - :closed_book: Have been an intern at A.I TECHNOLOGY, In the department electrical Design.
+
   At NOV 2020 - APR 2021.
 - 📫 Email me at [chakkarin210300@gmail.com](chakkarin210300@gmail.com).
 
