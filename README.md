@@ -51,11 +51,6 @@ A **Robotic And Engineering automation Student**  from Panyapiwat Institute of M
            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" /></code>
 
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKnowss)](https://github.com/iKnowss/github-readme-stats)
-  
-
-<br />
 <br />
 <br />
 
