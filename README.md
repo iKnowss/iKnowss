@@ -9,7 +9,7 @@
 
 A **Robotic And Engineering automation Student**  from Panyapiwat Institute of Management.
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/40/f4/a5/40f4a53b243411e246d7af7e24160e51.gif" />
 
 **About Me!**
 
