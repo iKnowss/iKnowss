@@ -49,6 +49,9 @@ A **Robotic And Engineering automation Student**  from Panyapiwat Institute of M
            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" /></code>
 <code><img height="20" alt="After Effects"
            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" /></code>
+           
+ <code><img height="20" alt="davinci resolve"
+           src="dhttps://toppng.com/uploads/preview/davinci-resolve-logo-11551057663wqlnlnkwym.png" /></code>
 
 <br />
 <br />
