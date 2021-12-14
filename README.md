@@ -19,7 +19,7 @@ A **Robotic And Engineering automation Student**  from Panyapiwat Institute of M
 - :closed_book: Have been an intern at A.I TECHNOLOGY, In the department electrical Design.
 
   At NOV 2020 - APR 2021.
-- 📫 Email me at [chakkarin210300@gmail.com](chakkarin.tum@gmail.com).
+- 📫 Email me at [chakkarin.tum@gmail.com](chakkarin.tum@gmail.com)
 
 **Languages and Tools:** 
 
