@@ -7,7 +7,7 @@
 <br />
 <br />
 
-A **Robotic And Engineering automation Student**  from Panyapiwat Institute of Management.
+A **Robotic And automation Engineering Student at Panyapiwat Institute of Management.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/5c/92/10/5c9210fa44211b161c56fc11302ca5a2.gif"/>
 
