@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 title="hi"> Hello 👋, I'm Chakkarin Tumsungnoen : Know</h1>
+<h1 title="hi"> Hello 👋, I'm Chakkarin Tumsungnoen : Arnold</h1>
 </div>
 
 
