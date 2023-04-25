@@ -7,17 +7,6 @@
 <br />
 <br />
 
-A **Robotic And automation Engineering Student at Panyapiwat Institute of Management.
-
-<a href="https://app.daily.dev/iknowss"><img src="https://api.daily.dev/devcards/35f14427d3b24fab97d9e8a3d55f8ec1.png?r=w6i" width="400" alt="Iknowss's Dev Card"/></a>
-
-**About Me!**
-
-- 👨🏽‍💻 I am currently studying at the Panyapiwat Institute of Management.
-- 💼 I’m pursuing a Bachelor's degree in Robotic And Engineering.
-- :bulb: I'm currently studying Python with a big interest in Machine Learning and ROS. 
-- :closed_book: Have been an intern at A.I TECHNOLOGY, In the department electrical Design.
-
   At NOV 2020 - APR 2021.
 - 📫 Email me at [chakkarin.tum@gmail.com](chakkarin.tum@gmail.com)
 
