@@ -7,7 +7,7 @@
 <br />
 <br />
 
-  At NOV 2020 - APR 2021.
+
 - 📫 Email me at [chakkarin.tum@gmail.com](chakkarin.tum@gmail.com)
 
 **Languages and Tools:** 
