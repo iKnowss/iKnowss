@@ -9,7 +9,7 @@
 
 A **Robotic And automation Engineering Student at Panyapiwat Institute of Management.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/5c/92/10/5c9210fa44211b161c56fc11302ca5a2.gif"/>
+<a href="https://app.daily.dev/iknowss"><img src="https://api.daily.dev/devcards/35f14427d3b24fab97d9e8a3d55f8ec1.png?r=w6i" width="400" alt="Iknowss's Dev Card"/></a>
 
 **About Me!**
 
